@@ -1,0 +1,51 @@
+ID,Name,Age,Gender,City,Department,Salary,Email,Join_Date
+1, Ram Sharma ,25,Male,Kathmandu,IT,45000,ram@gmail.com,2024-01-15
+2,Sita Thapa,28,Female,Pokhara,HR,52000,sita@gmail.com,2024-02-10
+3, Hari KC,22,Male, kathmandu,IT,40000,hari@gmail.com,15-03-2024
+4,Anita Rai,,Female,Biratnagar,Finance,55000,anita@gmail.com,2024/04/12
+5,  Bikash Gurung,30,Male,Pokhara,IT,60000,bikash@gmail.com,2024-05-20
+6,Pratiksha Lama,27,Female,Kathmandu,HR,50000,pratiksha@gmail.com,2024-06-18
+7,Ramesh Shrestha,35,Male,Lalitpur,Sales,70000,ramesh@gmail.com,2024-07-01
+8,Sunita KC,26,Female,Butwal,Finance,58000,sunita@gmail.com,2024-07-15
+9, Deepak Adhikari,29,Male,Bharatpur,IT,62000,deepak@gmail.com,2024-08-10
+10,Puja Gurung,24,Female,Kathmandu,Marketing,48000,puja@gmail.com,2024-08-25
+11,Rohan Singh,31,male,Pokhara,IT,75000,rohan@gmail.com,2024-09-05
+12,Manisha Karki,23,Female, kathmandu,HR,,manisha@gmail.com,2024-09-20
+13,  Suman KC  ,27,Male,Lalitpur,IT,55000,suman@gmail.com,2024-10-01
+14,Nisha Rai,29,Female,Biratnagar,Finance,61000,nishagmail.com,2024-10-15
+15,Ashok Thapa,34,Male,Butwal,Sales,68000,ashok@gmail.com,2024-11-01
+16,Sarita Sharma,25,Female,Pokhara,HR,51000,sarita@gmail.com,2024-11-12
+17,Binod Karki,28,Male,Kathmandu,IT,59000,binod@gmail.com,2024-12-05
+18,Alisha Gurung,26,Female,Lalitpur,Marketing,53000,alisha@gmail.com,2025-01-10
+19,Rajesh KC,150,Male,Bharatpur,IT,65000,rajesh@gmail.com,2025-01-20
+20,Komal Thapa,24,Female,Butwal,Finance,57000,komal@gmail.com,2025-02-01
+21,Suraj Rai,32,Male,Kathmandu,Sales,72000,suraj@gmail.com,2025-02-15
+22,Anju Lama,27,Female,Pokhara,HR,54000,anju@gmail.com,2025-03-01
+23,Ritesh Shrestha,29,Male,Lalitpur,IT,63000,ritesh@gmail.com,2025-03-12
+24,  Mina Karki,31,Female, Kathmandu ,Finance,60000,mina@gmail.com,2025-03-25
+25,Sagar Gurung,26,Male,Biratnagar,IT,58000,sagar@gmail.com,2025-04-05
+26,Rekha Rai,23,Female,Butwal,HR,49000,rekha@gmail.com,2025-04-15
+27,Anil Thapa,30,Male,Pokhara,IT,67000,anil@gmail.com,2025-05-01
+28,Sabina KC,28,Female,Kathmandu,Marketing,56000,sabina@gmail.com,2025-05-15
+29,Prakash Sharma,33,Male,Lalitpur,Sales,80000,prakash@gmail.com,2025-06-01
+30,Asmita Gurung,25,Female,Bharatpur,Finance,52000,asmita@gmail.com,2025-06-15
+31,Rabin Karki,27,Male,Kathmandu,IT,61000,rabin@gmail.com,2025-07-01
+32,Smriti Rai,24,Female,Pokhara,HR,50000,smriti@gmail.com,2025-07-12
+33,Ramesh Shrestha,35,Male,Lalitpur,Sales,70000,ramesh@gmail.com,2024-07-01
+34,Nabin Lama,29,Male,Butwal,IT,-45000,nabin@gmail.com,2025-07-20
+35,Karuna Thapa,26,Female,Kathmandu,Finance,59000,karuna@gmail.com,2025-08-01
+36,Bibek KC,22,Male,Pokhara,IT,41000,bibek@gmail.com,2025-08-10
+37,  Asha Rai,30,Female,Biratnagar,HR,53000,asha@gmail.com,2025-08-20
+38,Dinesh Gurung,28,Male,Kathmandu,IT,62000,dinesh@gmail.com,2025-09-01
+39,Priyanka Karki,27,Female,Lalitpur,Marketing,55000,priyanka@gmail.com,2025-09-15
+40,Manoj Thapa,36,Male,Butwal,Sales,85000,manoj@gmail.com,2025-10-01
+41,Sneha Sharma,25,Female,Pokhara,HR,51000,sneha@gmail.com,2025-10-12
+42,Kiran KC,29,Male,Kathmandu,IT,64000,kirankc@gmail.com,2025-10-25
+43,Neha Gurung,26,Female,Lalitpur,Finance,58000,neha@gmail.com,2025-11-05
+44,Arjun Rai,31,Male,Bharatpur,IT,69000,arjun@gmail.com,2025-11-15
+45,Meena Thapa,24,Female,Butwal,HR,50000,meena@gmail.com,2025-12-01
+46,Raju Karki,28,Male,Kathmandu,IT,60000,raju@gmail.com,2025-12-15
+47,Sapana Lama,23,Female,Pokhara,Marketing,48000,sapana@gmail.com,2026-01-05
+48,Rajesh KC,150,Male,Bharatpur,IT,65000,rajesh@gmail.com,2025-01-20
+49,   Hari KC,,Male,kathmandu,IT,40000,hari@gmail.com,15-03-2024
+50,Monika Rai,27,Female,Lalitpur,Finance,57000,monikagmail.com,2026-02-01
